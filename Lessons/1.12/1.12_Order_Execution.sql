@@ -1,5 +1,5 @@
 SELECT *
-FROM job_postings_fact
+FROM company_dim
 LIMIT 10;
 
 /*Find the top 10 companies for posting jobs.
